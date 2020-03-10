@@ -1,0 +1,14 @@
+{
+    "title" : "Gattaca",
+    "release year" : 1997,
+    "is awesome" : true,
+    "won oscar" : false,
+    "actors" : ["Ethan Hawke", "Uma Thurman", "Alan Arkin", "Loren Dean"],
+    "budget": null,
+    "credits" : {
+      "director" : "Andrew Niccol",
+      "writer" : "Andrew Niccol",
+      "composer" : "Michael Nyman",
+      "cinematographer" : "Sławomir Idziak"
+    }
+}
